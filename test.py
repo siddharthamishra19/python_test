@@ -1,1 +1,1 @@
-print ("Hello nepal")
+print ("Hello Nepal")
